@@ -57,5 +57,4 @@ wget https://raw.githubusercontent.com/echocyber6/vip/main/update.sh && chmod +x
 ```
 ```
 ```
-``
 ```
